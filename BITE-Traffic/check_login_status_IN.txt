@@ -1,0 +1,10 @@
+GET https://bite-playground.appspot.com/check_login_status HTTP/1.1
+Host: bite-playground.appspot.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: __utma=179425463.826897605.1335647449.1335647449.1335647449.1; __utmb=179425463.4.10.1335647449; __utmz=179425463.1335647449.1.1.utmcsr=accounts.google.com|utmccn=(referral)|utmcmd=referral|utmcct=/SmsAuth
+

@@ -1,0 +1,14 @@
+POST https://bite-playground.appspot.com/bugs/urls HTTP/1.1
+Host: bite-playground.appspot.com
+Connection: keep-alive
+Content-Length: 54
+Origin: chrome-extension://dhmmnccacbnpnehjkghdogiihmkmjmff
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.162 Safari/535.19
+Content-Type: application/json
+Accept: */*
+Accept-Encoding: gzip,deflate,sdch
+Accept-Language: en-US,en;q=0.8
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.3
+Cookie: SACSID=AJKiYcF-WlCvNmjyqYifI8sRGxnWNm_xRr_SUo0E331w1sBW5aLG3CvjJ3qPGccz6tMzPUh-CMSsafFURjrXxfY9XPbWliA3v-K3Y1hR3l0earTzZkBZYJ4IUjBgEqTab3E1HBWUqeVVRXmaTWwlV6aWLQvvHUXB-CUrHyG1Vqj_EaWLG2aTcPgcf5IFklKuQXT2RwCnXTM5BqHblnYRk1SlKgIxdAiNk2QOEsdkUY135T8qPEUl-lsybAhcrgGAMLqoC9d2dx9OA-wVo645yVgkD7qBgio8E3qU4opdHmhdJxCmaUILQYBsNJuMA4dY5bPkztfuJ4mz5bKniMeo71dGBuyrQzj_Vk6yA9pEX_pZhxrPd6U28NDtz6TZoxnZSmwfA0pT21zmwAR7aPFnCQnrs4nXqSLpKI_0_DojiYYCxUpSYRA0-SkOB51EMz_uxXuxuOQOBSzzM4T_VqWIEDflB9UPW9dXmULfKWwO7__wKJJL8DilLm9yiczICMSjhGprKwts9DAQXaWgxUQTH4_bK6VkMe8FWKHCWjf5Bux97IrK_uU72TzRLgOOqBQgGZmpomg5Xxzer2m__Py629Og_aX6uZT2we14NyIFNYLVLw_-U5JVwWXn5uFEKiES-4NzdTO-1RJ5; __utma=179425463.826897605.1335647449.1335647449.1335647449.1; __utmb=179425463.5.10.1335647449; __utmc=179425463; __utmz=179425463.1335647449.1.1.utmcsr=accounts.google.com|utmccn=(referral)|utmcmd=referral|utmcct=/SmsAuth
+
+{"kind":"bugs#urls","urls":["http://www.google.com/"]}

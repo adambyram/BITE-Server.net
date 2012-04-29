@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Content-Type: application/json
+Vary: Accept-Encoding
+Date: Sat, 28 Apr 2012 21:13:54 GMT
+Server: Google Frontend
+Content-Length: 41
+
+{
+  "kind": "bugs#id", 
+  "id": 236002
+}
